@@ -4,6 +4,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include"firstProjFun.h"
+#include"stdafx.h"
+
 
 
 
